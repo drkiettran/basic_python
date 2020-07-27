@@ -43,3 +43,7 @@ Write the first **hello world** program:
 
 - git init
 - git status
+- git add 
+- git commit
+- git push
+- git pull
