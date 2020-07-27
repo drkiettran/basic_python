@@ -38,3 +38,8 @@ Write the first **hello world** program:
     Hello, world!
     ```
 10. end
+
+# Useful Git commands
+
+- git init
+- git status
